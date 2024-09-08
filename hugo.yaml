@@ -1,7 +1,7 @@
 baseURL: https://news.krimsonsquad.tech
 languageCode: en-us
 title: News | KrimsonSquad
-theme: ["PaperMod"]
+theme: ["hugo-PaperMod"]
 enableRobotsTXT: false
 
 params:
